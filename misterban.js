@@ -1,5 +1,4 @@
 const TelegramBot = require('node-telegram-bot-api');
-const Agent = require('socks5-https-client/lib/Agent');
 const request = require('request');
 
 const token = '791354621:AAHmiTzF4xP8ZjhnMdoeKrPMhuP2FBuRGGU';
